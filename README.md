@@ -1,0 +1,1 @@
+This repository contains the data for the [DECC Dashboard](https://github.com/openghg/decc_dashboard).
